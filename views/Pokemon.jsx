@@ -50,3 +50,9 @@ class Pokemon extends React.Component {
 }
 
 module.exports = Pokemon;
+
+
+
+
+
+
